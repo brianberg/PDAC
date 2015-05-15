@@ -1,8 +1,6 @@
 # PDAC 
 *Portable, Deployable, and Accessible Classroom*
 
----
-
 ## Overview
 
 PDAC is a portable presentation device that increases the accessibility of a presentation in the classroom. Users are able to connect to the device via a configurable wireless access point and locally hosting web application. Presentations can be uploaded to the system from personal devices or USB devices. Users can then view the presentation slides at their own pace or follow the live broadcast.
